@@ -1,0 +1,2 @@
+com/github/annasajkh/desktop/DesktopLauncher.java
+ com.github.annasajkh.desktop.DesktopLauncher

@@ -1,0 +1,10 @@
+com/github/annasajkh/Core.java
+ com.github.annasajkh.Core
+com/github/annasajkh/libraries/NeuralNetwork.java
+ com.github.annasajkh.libraries.NeuralNetwork
+com/github/annasajkh/libraries/Matrix.java
+ com.github.annasajkh.libraries.Matrix
+com/github/annasajkh/Pipe.java
+ com.github.annasajkh.Pipe
+com/github/annasajkh/Bird.java
+ com.github.annasajkh.Bird
