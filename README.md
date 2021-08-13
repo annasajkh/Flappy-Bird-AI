@@ -1,5 +1,5 @@
 # Flappy-Bird-AI
-ai that sometimes doesn't work cuz i am too lazy to refactor it
+ai plays flappy bird lol
 
 # build the project 
 clone or download this repo
