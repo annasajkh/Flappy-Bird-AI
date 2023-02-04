@@ -1,5 +1,5 @@
 # Flappy-Bird-AI
-ai plays flappy bird lol
+ai play flappy bird lol
 
 # build the project 
 clone or download this repo
